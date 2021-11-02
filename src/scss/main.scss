@@ -1,0 +1,14 @@
+@import 'blocks/working';
+@import 'blocks/about';
+@import 'blocks/what';
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 0 10px 0;
+}

@@ -1,0 +1,40 @@
+.working{
+    min-height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   background-image: url('../img/');
+
+}
+
+.logo{
+    text-align: center;
+    margin: 0 0 50px;
+}
+
+.head{
+    width: 330px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    margin: 0 0 20px;
+}
+
+.text-holder{
+    width: 345px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.scroll{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 180px 0 0;
+}
+
+
+
+
